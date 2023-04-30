@@ -1,0 +1,51 @@
+.CustomLink{
+    width: 35%;
+    margin-block: 20px;
+}
+.DropdownCustomlink{
+    background-color: #666b7c;
+    height: 37px;
+    color: white!important;
+    width: 180px;
+    word-wrap: break-word;
+}
+.AccountDropDown{
+    background-color: #000;
+    border-width: 1;
+    border-style: groove;
+    border-color: #3772FF;
+}
+.css-1yk1gt9-MuiInputBase-root-MuiOutlinedInput-root-MuiSelect-root{
+    margin-right: 10px;
+}
+.customform{
+    margin-block: 30px;
+    color:white
+}
+.header{
+    color: white;
+    font-size: 18px;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 30px;
+}
+.textbox{
+    margin-block: 20px;
+    background-color: #242731;
+    width: 85%;
+    height: 42px;
+    border-radius: 15px;
+    padding-inline: 15px;
+    color:white;
+    font-size: 15px;
+}
+.css-sghohy-MuiButtonBase-root-MuiButton-root {
+    margin-right: 10px!important;
+}
+.rowbetween{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
